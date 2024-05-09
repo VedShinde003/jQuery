@@ -1,0 +1,26 @@
+.tcs{
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.abc{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.image{
+    height: 500px;
+    width: 500px;
+}
+.good{
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    align-items: center;
+    text-align: center;
+}
+.view{
+    gap: 120px;
+}
+.footer{
+    display: flex;
+    flex-direction: column;
+}
